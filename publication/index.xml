@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://lizhen0797.github.io/publication/</link><atom:link href="https://lizhen0797.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://lizhen0797.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://lizhen0797.github.io/publication/</link></image><item><title>Privacy Preservation Authentication: Group Secret Handshake with Multiple Groups</title><link>https://lizhen0797.github.io/publication/journal-article/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><guid>https://lizhen0797.github.io/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://lizhen0797.github.io/publication/</link><atom:link href="https://lizhen0797.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://lizhen0797.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://lizhen0797.github.io/publication/</link></image><item><title>A Multi-Dimensional Covert Transaction Recognition Scheme for Blockchain</title><link>https://lizhen0797.github.io/publication/wang2023mathematics/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><guid>https://lizhen0797.github.io/publication/wang2023mathematics/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -8,85 +8,7 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;h2 id="supplementary-notes-can-be-added-here-including-code-math-and-imageshttpswowchemycomdocswriting-markdown-latex">Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/h2>
-&lt;p>title: &amp;ldquo;A Multi-Dimensional Covert Transaction Recognition Scheme for Blockchain&amp;rdquo;
-authors:&lt;/p>
-&lt;ul>
-&lt;li>Zhang Zijian&lt;/li>
-&lt;li>Wang Shuqi&lt;/li>
-&lt;li>admin&lt;/li>
-&lt;li>Gao Feng&lt;/li>
-&lt;li>Wang Huaqiang&lt;/li>
-&lt;/ul>
-&lt;h1 id="author_notes">author_notes:&lt;/h1>
-&lt;h1 id="--equal-contribution">- &amp;ldquo;Equal contribution&amp;rdquo;&lt;/h1>
-&lt;h1 id="--equal-contribution-1">- &amp;ldquo;Equal contribution&amp;rdquo;&lt;/h1>
-&lt;p>date: &amp;ldquo;2023-01-20T00:00:00Z&amp;rdquo;
-doi: &amp;quot;&amp;quot;&lt;/p>
-&lt;h1 id="schedule-page-publish-date-not-publications-date">Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1>
-&lt;p>publishDate: &amp;ldquo;2023-01-20T00:00:00Z&amp;rdquo;&lt;/p>
-&lt;h1 id="publication-type">Publication type.&lt;/h1>
-&lt;h1 id="legend-0--uncategorized-1--conference-paper-2--journal-article">Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;&lt;/h1>
-&lt;h1 id="3--preprint--working-paper-4--report-5--book-6--book-section">3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;&lt;/h1>
-&lt;h1 id="7--thesis-8--patent">7 = Thesis; 8 = Patent&lt;/h1>
-&lt;p>publication_types: [&amp;ldquo;2&amp;rdquo;]&lt;/p>
-&lt;h1 id="publication-name-and-optional-abbreviated-publication-name">Publication name and optional abbreviated publication name.&lt;/h1>
-&lt;p>publication: &amp;ldquo;&lt;em>Mathematics, 11&lt;/em>(4)&amp;rdquo;
-publication_short: &amp;quot;&amp;quot;&lt;/p>
-&lt;p>abstract: The technique of group secret handshake (GSH) has been used to help the members affiliated with the same group in achieving private authentication. After executing GSH protocols, the participants affiliated with the group can compute a shared secret key, or generate a public encryption key while the true participants can self-compute their decryption keys. This paper presents a concrete GSH protocol with Multiple Groups. Only a legitimate member can prove that it belongs to a set of legitimate affiliations, but which affiliation it belongs to will not be leaked. The Group Authority can reveal the real identities of the fellows in the proposed scheme after analyzing the flow of communication. The proposed scheme can provide affiliation-hiding and detectability. In addition, it achieves Perfect Forward Secrecy.&lt;/p>
-&lt;h1 id="summary-an-optional-shortened-abstract">Summary. An optional shortened abstract.&lt;/h1>
-&lt;h1 id="summary-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-duis-posuere-tellus-ac-convallis-placerat-proin-tincidunt-magna-sed-ex-sollicitudin-condimentum">summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.&lt;/h1>
-&lt;p>tags:&lt;/p>
-&lt;ul>
-&lt;li>Source Themes
-featured: false&lt;/li>
-&lt;/ul>
-&lt;h1 id="links">links:&lt;/h1>
-&lt;h1 id="--name-">- name: &amp;quot;&amp;quot;&lt;/h1>
-&lt;h1 id="url-">url: &amp;quot;&amp;quot;&lt;/h1>
-&lt;p>url_pdf: &lt;a href="https://www.mdpi.com/2227-7390/11/3/532" target="_blank" rel="noopener">https://www.mdpi.com/2227-7390/11/3/532&lt;/a>
-url_code: &amp;rsquo;'
-url_dataset: &amp;rsquo;'
-url_poster: &amp;rsquo;'
-url_project: &amp;rsquo;'
-url_slides: &amp;rsquo;'
-url_source: &amp;rsquo;'
-url_video: ''&lt;/p>
-&lt;h1 id="featured-image">Featured image&lt;/h1>
-&lt;h1 id="to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder">To use, add an image named &lt;code>featured.jpg/png&lt;/code> to your page&amp;rsquo;s folder.&lt;/h1>
-&lt;h1 id="image">image:&lt;/h1>
-&lt;h1 id="caption-image-credit-unsplashhttpsunsplashcomphotosjdd8gxatzsc">caption: &amp;lsquo;Image credit: &lt;a href="https://unsplash.com/photos/jdD8gXaTZsc" target="_blank" rel="noopener">&lt;strong>Unsplash&lt;/strong>&lt;/a>&amp;rsquo;&lt;/h1>
-&lt;h1 id="focal_point-">focal_point: &amp;quot;&amp;quot;&lt;/h1>
-&lt;h1 id="preview_only-false">preview_only: false&lt;/h1>
-&lt;h1 id="associated-projects-optional">Associated Projects (optional).&lt;/h1>
-&lt;h1 id="associate-this-publication-with-one-or-more-of-your-projects">Associate this publication with one or more of your projects.&lt;/h1>
-&lt;h1 id="simply-enter-your-projects-folder-or-file-name-without-extension">Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1>
-&lt;h1 id="eg-internal-project-references-contentprojectinternal-projectindexmd">E.g. &lt;code>internal-project&lt;/code> references &lt;code>content/project/internal-project/index.md&lt;/code>.&lt;/h1>
-&lt;h1 id="otherwise-set-projects-">Otherwise, set &lt;code>projects: []&lt;/code>.&lt;/h1>
-&lt;p>projects: []&lt;/p>
-&lt;h1 id="slides-optional">Slides (optional).&lt;/h1>
-&lt;h1 id="associate-this-publication-with-markdown-slides">Associate this publication with Markdown slides.&lt;/h1>
-&lt;h1 id="simply-enter-your-slide-decks-filename-without-extension">Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1>
-&lt;h1 id="eg-slides-example-references-contentslidesexampleindexmd">E.g. &lt;code>slides: &amp;quot;example&amp;quot;&lt;/code> references &lt;code>content/slides/example/index.md&lt;/code>.&lt;/h1>
-&lt;h1 id="otherwise-set-slides-">Otherwise, set &lt;code>slides: &amp;quot;&amp;quot;&lt;/code>.&lt;/h1>
-&lt;h1 id="slides-example">slides: example&lt;/h1>
-&lt;hr>
-&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;h2 id="supplementary-notes-can-be-added-here-including-code-math-and-imageshttpswowchemycomdocswriting-markdown-latex-1">Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/h2></description></item><item><title>An example preprint / working paper</title><link>https://lizhen0797.github.io/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://lizhen0797.github.io/publication/preprint/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://lizhen0797.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://lizhen0797.github.io/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Privacy Preservation Authentication: Group Secret Handshake with Multiple Groups</title><link>https://lizhen0797.github.io/publication/han2023mathmatics/</link><pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate><guid>https://lizhen0797.github.io/publication/han2023mathmatics/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
