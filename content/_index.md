@@ -21,8 +21,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication\zhang2023mathematicsFL
-          - publication\zhang2023mathematicsBlochchain
+          - selectPublication
         exclude_featured: true
     design:
       columns: '2'
