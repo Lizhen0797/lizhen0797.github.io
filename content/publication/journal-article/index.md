@@ -5,15 +5,15 @@ authors:
 - admin
 - Wang Mengyu
 - Xu Chang
-- Sharif, Kashif
+- Sharif Kashif
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2023-01-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,10 +25,10 @@ publication_types: ["2"]
 publication: "*Mathematics, 11*(3)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The technique of group secret handshake (GSH) has been used to help the members affiliated with the same group in achieving private authentication. After executing GSH protocols, the participants affiliated with the group can compute a shared secret key, or generate a public encryption key while the true participants can self-compute their decryption keys. This paper presents a concrete GSH protocol with Multiple Groups. Only a legitimate member can prove that it belongs to a set of legitimate affiliations, but which affiliation it belongs to will not be leaked. The Group Authority can reveal the real identities of the fellows in the proposed scheme after analyzing the flow of communication. The proposed scheme can provide affiliation-hiding and detectability. In addition, it achieves Perfect Forward Secrecy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/2227-7390/11/3/532
 url_code: ''
 url_dataset: ''
 url_poster: ''
