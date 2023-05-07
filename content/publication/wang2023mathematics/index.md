@@ -34,6 +34,7 @@ abstract: The technique of group secret handshake (GSH) has been used to help th
 tags:
 - Source Themes
 featured: false
+selected: true
 
 # links:
 # - name: ""

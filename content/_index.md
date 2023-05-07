@@ -21,7 +21,7 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - selectPublication
+          - publication
         exclude_featured: true
     design:
       columns: '2'

@@ -39,6 +39,7 @@ abstract: Federated learning (FL) has been widely used in both academia and indu
 tags:
 - Source Themes
 featured: false
+selected: true
 
 # links:
 # - name: ""
