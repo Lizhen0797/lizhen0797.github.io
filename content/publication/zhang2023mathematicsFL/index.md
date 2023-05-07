@@ -9,9 +9,12 @@ authors:
 - Khan Salabat
 - Chen Huaping
 - Cheng Guoqiang
-# author_notes:
+ author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- ""
+- ""
+- "Corresponding author"
 date: "2023-02-22T00:00:00Z"
 doi: ""
 
