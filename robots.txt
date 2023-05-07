@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://lizhen0797.github.io/sitemap.xml
