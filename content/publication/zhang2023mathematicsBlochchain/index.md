@@ -1,19 +1,20 @@
 ---
-title: "A Multi-Dimensional Covert Transaction Recognition Scheme for Blockchain"
+title: "Achieving Anonymous and Covert Reporting on Public Blockchain Networks"
 authors:
-- Zhang Zijian
-- Wang Shuqi
-- admin
+- Zhu Liehuang
+- Zhang Jiaqi
+- Zhang Can
 - Gao Feng
-- Wang huaqiang
+- Chen Zhuo
+- admin
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-02-16T00:00:00Z"
+date: "2023-01-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-16T00:00:00Z"
+publishDate: "2023-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +23,10 @@ publishDate: "2023-02-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mathematics, 11*(4)"
+publication: "*Mathematics, 11*(7)"
 publication_short: ""
 
-abstract: The technique of group secret handshake (GSH) has been used to help the members affiliated with the same group in achieving private authentication. After executing GSH protocols, the participants affiliated with the group can compute a shared secret key, or generate a public encryption key while the true participants can self-compute their decryption keys. This paper presents a concrete GSH protocol with Multiple Groups. Only a legitimate member can prove that it belongs to a set of legitimate affiliations, but which affiliation it belongs to will not be leaked. The Group Authority can reveal the real identities of the fellows in the proposed scheme after analyzing the flow of communication. The proposed scheme can provide affiliation-hiding and detectability. In addition, it achieves Perfect Forward Secrecy.
+abstract: Reporting helps to combat illegal activities and deters lawbreakers and potential lawbreakers. From ancient times to the present, public authorities have usually rewarded effective reporting information to build harmonious societies. In this process, protecting the privacy of the whistleblower is a very important issue. Existing blockchain-based anonymous reporting solutions help solve the problem of insufficient anonymity in traditional reporting solutions, but they do not address the issue of hiding the reporting behavior. The disclosure of reporting behavior may alert offenders in advance and negatively impact case handling. This paper proposes an anonymous and covert reporting scheme and rewarding mechanism based on blockchain, which realizes the covertness of the reporting behavior while protecting the privacy of the whistleblower. The proposed scheme uses ring signature and derived address technology to ensure anonymity and achieves covertness by embedding information in the ring signature based on the idea of covert communication. Theoretical analysis proves that the proposed scheme has covertness, anonymity, and unforgeability properties. Experiments show that the proposed scheme takes only 0.08 s to upload data and 0.07 s to verify while achieving covertness.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -37,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.mdpi.com/2227-7390/11/4/1015
+url_pdf: https://www.mdpi.com/2227-7390/11/7/1621
 url_code: ''
 url_dataset: ''
 url_poster: ''
