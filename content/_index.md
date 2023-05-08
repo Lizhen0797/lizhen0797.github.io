@@ -11,6 +11,57 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD Student
+          company: Beijing Institute of Technology
+          company_url: ''
+          company_logo: org-gc
+          location: Beijing
+          date_start: '2022-08-26'
+          date_end: ''
+          description: ''
+        - title: Java Programer
+          company: Beijing Institute of Technology Southeast Institute of Information Technology}
+          company_url: ''
+          company_logo: org-x
+          location: Putian
+          date_start: '2021-07-01'
+          date_end: '2022-07-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Master Student
+          company: Beijing Information Science and Technology University
+          company_url: ''
+          company_logo: org-gc
+          location: Beijing
+          date_start: '2018-09-01'
+          date_end: '2021-06-30'
+          description: ''
+        - title: Bachelor Student
+          company: Beijing Information Science and Technology University
+          company_url: ''
+          company_logo: org-gc
+          location: Beijing
+          date_start: '2014-09-01'
+          date_end: '2018-06-30'
+          description: ''
+    design:
+      columns: '2'
   - block: collection
     id: publications
     content:
