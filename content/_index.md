@@ -26,7 +26,7 @@ sections:
         - title: PhD Student
           company: Beijing Institute of Technology
           company_url: ''
-          company_logo: bit
+          company_logo: org-gc
           location: Beijing
           date_start: '2022-08-26'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Java Programer
           company: Beijing Institute of Technology Southeast Institute of Information Technology}
           company_url: ''
-          company_logo: bit
+          company_logo: org-gc
           location: Putian
           date_start: '2021-07-01'
           date_end: '2022-07-01'
@@ -47,7 +47,7 @@ sections:
         - title: Master Student
           company: Beijing Information Science and Technology University
           company_url: ''
-          company_logo: bistu
+          company_logo: org-gc
           location: Beijing
           date_start: '2018-09-01'
           date_end: '2021-06-30'
@@ -55,7 +55,7 @@ sections:
         - title: Bachelor Student
           company: Beijing Information Science and Technology University
           company_url: ''
-          company_logo: bistu
+          company_logo: org-gc
           location: Beijing
           date_start: '2014-09-01'
           date_end: '2018-06-30'
