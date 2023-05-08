@@ -32,7 +32,7 @@ sections:
           date_end: ''
           description: ''
         - title: Java Programer
-          company: Beijing Institute of Technology Southeast Institute of Information Technology}
+          company: Beijing Institute of Technology Southeast Institute of Information Technology
           company_url: ''
           company_logo: bit
           location: Putian
