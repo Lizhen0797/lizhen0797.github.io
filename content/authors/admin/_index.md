@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhen Li
+title: Li Zhen
 
 # Full name (for SEO)
 first_name: Zhen
