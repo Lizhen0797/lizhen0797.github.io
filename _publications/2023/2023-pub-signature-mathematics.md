@@ -10,8 +10,8 @@ abstract: >-
 authors:
   - Dong Han
   - Zhen Li
-  - Mengyu Wang#
-  - Chang Xu#
+  - Mengyu Wang*
+  - Chang Xu*
   - Kashif Sharif
 links:
   Paper: https://www.mdpi.com/2227-7390/11/3/532

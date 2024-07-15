@@ -15,7 +15,7 @@ authors:
   - Yuming Tang*
   - Yitian Zhang*
   - Tao Niu
-  - Zhen Li#
+  - Zhen Li*
   - Zijian Zhang
   - Huaping Chen
   - Long Zhang

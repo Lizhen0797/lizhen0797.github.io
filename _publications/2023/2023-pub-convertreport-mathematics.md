@@ -13,7 +13,7 @@ authors:
   - Can Zhang
   - Feng Gao
   - Zhuo Chen
-  - Zhen Li#
+  - Zhen Li*
 links:
   Paper: https://www.mdpi.com/2227-7390/11/7/1621
 ---

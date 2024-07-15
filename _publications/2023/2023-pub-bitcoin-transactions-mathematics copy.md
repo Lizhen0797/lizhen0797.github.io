@@ -10,7 +10,7 @@ abstract: >-
 authors:
   - Zijian Zhang
   - Shuqi Wang
-  - Zhen Li#
+  - Zhen Li*
   - Feng Gao
   - Huaqiang Wang
 links:
