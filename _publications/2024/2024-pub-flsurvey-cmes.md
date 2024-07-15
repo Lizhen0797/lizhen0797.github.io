@@ -2,7 +2,7 @@
 title:          "A Survey on Blockchain-Based Federated Learning: Categorization, Application and Analysis"
 date:           2024-03-11 00:01:00 +0800
 selected:       true
-pub:            "Computer Modeling in Engineering \& Sciences"
+pub:            "Computer Modeling in Engineering and Sciences"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
